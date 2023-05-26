@@ -19,7 +19,7 @@ You can find my talks' here **soon**.
 - [**3D**](https://reddit.com/u/himanshumahaur): Blender renders.
 - [**Web**](https://himanshumahaur.github.io): Portfolio website (under construction) 🚧.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=himanshumahaur&show_icons=true)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=himanshumahaur&show_icons=true) -->
 
 [0]: https://facebook.com/himanshumahaur
 [1]: https://instagram.com/himanshusinghmahaur
