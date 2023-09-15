@@ -1,6 +1,4 @@
 # Hi! 👋 I'm Himanshu
-
-## About Me 🧑‍💻
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
