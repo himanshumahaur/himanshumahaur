@@ -11,7 +11,7 @@
       - 🎸 Music lover (my code has rhythm too, just a bit offbeat)<br>
     </td>
     <td width="250">
-      <img src="img/octocat.png" alt="Octocat">
+      <img src="img/octocat_com.png" alt="Octocat">
     </td>
   </tr>
 </table>
