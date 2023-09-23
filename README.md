@@ -10,7 +10,7 @@
         - 😄 Love sharing programming jokes (I promise, they're not as buggy as my code)<br>
         - 🎸 Music lover (my code has rhythm too, just a bit offbeat)<br>
     </td>
-    <td width="250">
+    <td width="30%">
       <img src="img/octocat_com.png" alt="Octocat">
     </td>
   </tr>
