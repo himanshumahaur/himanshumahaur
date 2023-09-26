@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Himanshu
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td>
       I'm a self-proclaimed coding ninja in training at IIITDM Kurnool, AP. Breaking the ice, not the code! 😄
       <br>
       <br>
