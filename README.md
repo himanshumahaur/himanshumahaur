@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      I'm a self-proclaimed coding ninja in training at IIITDM Kurnool, AP. Breaking the ice, not the code! 😄
+      I'm a self-proclaimed coding ninja. Breaking the ice, not the code! 😄
       <br>
       <br>
         - 🌐 Computer Science and Engineering student<br>
