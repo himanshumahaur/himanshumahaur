@@ -5,7 +5,7 @@
       I'm a self-proclaimed coding ninja. Breaking the ice, not the code! 😄
       <br>
       <br>
-        - 🌐 Computer Science and Engineering student<br>
+        - 🌐 Computer Science and Information Security student<br>
         - 💡 Passionate about programming and tech (unless it's a Monday morning bug)<br>
         - 😄 Love sharing programming jokes (I promise, they're not as buggy as my code)<br>
         - 🎸 Music lover (my code has rhythm too, just a bit offbeat)<br>
