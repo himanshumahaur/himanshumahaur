@@ -36,6 +36,6 @@
 
 <br>
 
-Feel free to reach out to me via [email](mailto:himanshusinghmahaur.com) or connect on [LinkedIn](https://www.linkedin.com/in/himanshumahaur). Let's discuss tech, share a laugh, or talk about astronomy, music, and, of course, programming mishaps!
+Feel free to reach out to me via [email](mailto:himanshusinghmahaur.com) or connect on [LinkedIn](https://www.linkedin.com/in/himanshumahaur). Let's discuss tech, share a laugh, and, of course, programming mishaps!
 
 Thanks for visiting my GitHub profile!
